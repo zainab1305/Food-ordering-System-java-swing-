@@ -1,0 +1,158 @@
+
+================================Zasha Food Corner:
+Customer: Ziva
+
+You Ordered:
+Burgerx2-Rs198
+Friesx3-Rs267
+Cold Coffeex2-Rs158
+
+Total: Rs.623
+================================
+================================
+Zasha Food Corner:
+Customer: yesha
+
+You Ordered:
+Burgerx2-Rs198
+Friesx3-Rs267
+
+Total: Rs.465
+================================
+
+================================
+Zasha Food Corner:
+Customer: Zainab
+
+You Ordered:
+Cheese Burgerx2-Rs240
+Pastax1-Rs189
+Manchurianx1-Rs159
+Chocolate Scoopx2-Rs118
+
+Total: Rs.706
+================================
+
+================================
+Zasha Food Corner:
+Customer: Riya
+
+You Ordered:
+Cheese Burgerx3-Rs360
+Diet Cokex1-Rs50
+Manchurianx1-Rs159
+Vanilla Scoopx2-Rs98
+
+Total: Rs.667
+================================
+
+================================
+Zasha Food Corner:
+Customer: Zainab
+
+You Ordered:
+Noodlesx1-Rs139
+Momos 5 piecesx1-Rs239
+
+Total: Rs.378
+================================
+
+================================
+Zasha Food Corner:
+Customer: Zainab
+
+You Ordered:
+Schezwan Burgerx1-Rs150
+Donutsx2-Rs118
+Plain Dosax1-Rs110
+
+Total: Rs.378
+================================
+
+================================
+Zasha Food Corner:
+Customer: Tanish
+
+You Ordered:
+Normal Burgerx5-Rs495
+Pizzax2-Rs398
+Normal Friesx3-Rs267
+
+Total: Rs.1160
+================================
+
+================================
+Zasha Food Corner:
+Customer: Zainab
+
+You Ordered:
+Schezwan Burgerx4-Rs600
+Fried Ricex5-Rs890
+Peri Peri friesx1-Rs129
+
+Total: Rs.1619
+================================
+
+================================
+Zasha Food Corner:
+Customer: Zainab
+
+You Ordered:
+Cheese Burgerx2-Rs240
+Manchurianx1-Rs159
+Chocolate Scoopx2-Rs118
+
+Total: Rs.517
+================================
+
+================================
+Zasha Food Corner:
+Customer: Shanaya
+
+You Ordered:
+Schezwan Burgerx2-Rs300
+Manchurianx1-Rs159
+Cheese Frankiex1-Rs149
+Chocolate Scoopx2-Rs118
+
+Total: Rs.726
+================================
+
+================================
+Zasha Food Corner:
+Customer: Shreya
+
+You Ordered:
+Cold Coffeex2-Rs158
+Schezwan Burgerx2-Rs300
+Peri Peri friesx1-Rs129
+Chocolate Scoopx2-Rs118
+
+Total: Rs.705
+================================
+
+================================
+Zasha Food Corner:
+Customer: Zainab
+
+You Ordered:
+Schezwan Burgerx2-Rs300
+Pastax1-Rs189
+Peri Peri friesx1-Rs129
+Chocolate Scoopx2-Rs118
+
+Total: Rs.736
+================================
+
+================================
+Zasha Food Corner:
+Customer: Ziya
+
+You Ordered:
+Schezwan Burgerx2-Rs300
+Cokex2-Rs40
+Momos 5 piecesx1-Rs239
+Chocolate Scoopx2-Rs118
+
+Total: Rs.697
+================================
