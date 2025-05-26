@@ -1,0 +1,25 @@
+1,Normal Burger,99
+2,Pizza,199
+3,Normal Fries,89
+4,Cold Coffee,79
+5,Cheese Burger,120
+6,Schezwan Burger,150
+7,Noodles,139
+8,Club Sandwich,70
+9,Coke,20
+10,Diet Coke,50
+11,Cheese Sandwich,140
+12,Pasta,189
+13,Pav Bhaji,129
+14,Donuts,59
+15,Fried Rice,178
+16,Manchurian,159
+17,Biryani,219
+18,Plain Dosa,110
+19,Masala Dosa,189
+20,Momos 5 pieces,239
+21,Peri Peri fries,129
+22,Veg Frankie,79
+23,Cheese Frankie,149
+24,Chocolate Scoop,59
+25,Vanilla Scoop,49
