@@ -156,3 +156,45 @@ Chocolate Scoopx2-Rs118
 
 Total: Rs.697
 ================================
+
+================================
+Zasha Food Corner:
+Customer: Zainab
+
+You Ordered:
+Normal Friesx2-Rs178
+
+Total: Rs.178
+================================
+
+================================
+Zasha Food Corner:
+Customer: Huzefa
+
+You Ordered:
+Normal Friesx1-Rs89
+Cheese Burgerx2-Rs240
+Diet Cokex1-Rs50
+Fried Ricex1-Rs178
+
+Total: Rs.557
+================================
+
+================================
+Zasha Food Corner:
+Customer: 1
+
+You Ordered:
+Cokex1-Rs20
+
+Total: Rs.20
+================================
+
+================================
+Zasha Food Corner:
+Customer: null
+
+You Ordered:
+
+Total: Rs.0
+================================

@@ -1,0 +1,19 @@
+# Java compiled classes
+*.class
+
+# Runtime/generated app output
+bill.txt
+
+# VS Code Java runner temp file
+tempCodeRunnerFile.java
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+# vieod + ppt
+FOD.mp4
+FOS.mp4
+Presentation 9.pptx
+
+# unnecessary java
+Main.java
